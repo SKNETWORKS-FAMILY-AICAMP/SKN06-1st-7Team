@@ -1,4 +1,4 @@
-# 🚨 ERROR 일지 🚨 (수정필요)
+# 🚨 ERROR 일지 🚨
 
 ### 📌 실수하기 좋은 아해들(MySQL과 Python)
 
