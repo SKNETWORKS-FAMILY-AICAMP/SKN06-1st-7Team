@@ -73,7 +73,7 @@ SKN03-1st-3Team : 셋이서도 잘해요
 |![image](https://github.com/user-attachments/assets/9bf5b0ed-c952-44cd-a06a-a97e0f892a2e) | 선택된 기간, 자치구의 자동차 등록수 추이와 사고 횟수를 나타내는 그래프를 제공합니다. |
 
 ### 📌 후기 
-> I'm lit :
+> I'm lit : 팀원들 덕에 완만하고 재밌게 프로젝트를 마무리 할 수 있었던 것 같습니다 !
 >
 
 > 동방의 crawler : 히히... 재밌어요 히히...히!
